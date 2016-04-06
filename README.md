@@ -1,5 +1,7 @@
 # Intro to Testing with mocha and chai
 
+![Build Status](https://travis-ci.org/sternmd/development_testing.svg?branch=master)
+
 Intro to testing with Mocha & Chai.
 
 ## How do I test?
